@@ -1,0 +1,14 @@
+th {
+    display: table-cell;
+    vertical-align: inherit;
+    font-weight: normal;
+    text-align: -internal-center;
+}
+.popover-h{
+        
+            overflow-y: auto;
+            }
+table tr:nth-child(even)
+  {
+    background:#afafaf23;
+  }

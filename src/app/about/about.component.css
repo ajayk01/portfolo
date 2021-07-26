@@ -1,0 +1,6 @@
+.card
+{
+  top: 15%;
+  animation: pop-in 0.5s;
+  left:25%;
+}
